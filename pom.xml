@@ -4,7 +4,7 @@
 
   <groupId>com.vishal.kalva</groupId>
   <artifactId>MavenReleasePlugin</artifactId>
-  <version>1.9-SNAPSHOT</version>
+  <version>2.1</version>
   <packaging>jar</packaging>
 
   <name>MavenReleasePlugin</name>
@@ -38,7 +38,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/autagika/MavenReleasePlugin.git</developerConnection>
     <url>https://github.com/autagika/MavenReleasePlugin</url>
-    <tag>HEAD</tag>
+    <tag>MavenReleasePlugin-2.1</tag>
   </scm>
 
   <build>
