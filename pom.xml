@@ -6,7 +6,6 @@
   <artifactId>MavenReleasePlugin</artifactId>
   <version>1.44-SNAPSHOT</version>
 
-
   <name>MavenReleasePlugin</name>
   <url>http://maven.apache.org</url>
 
