@@ -21,7 +21,7 @@ jobs:
 
     steps:
       - checkout:
-          path: /home/circleci
+          path: /home/circleci/MavenReleasePlugin
 
       # Download and cache dependencies
       - restore_cache:
